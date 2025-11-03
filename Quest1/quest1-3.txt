@@ -1,0 +1,3 @@
+Agnareth,Orylith,Krongnar,Urakophis,Khartor,Ilmarquor,Cragpyr,Luthdren,Zyrixsar,Gavzeth,Fyndzral,Naldgnar,Agnarsaral,Jaervor,Thymthyn,Falfal,Raelsin,Krynnendris,Zyririn,Cynderjor,Elvarsin,Norakvoran,Raelvel,Brynural,Ylarophis,Erastyr,Jorathmal,Orahfroth,Nyssgnar,Yndvyr
+
+L24,R5,L38,R34,L43,R24,L12,R9,L27,R24,L6,R10,L6,R14,L10,R42,L23,R16,L43,R11,L5,R15,L5,R29,L5,R45,L5,R30,L5,R49,L5,R23,L5,R15,L5,R13,L5,R46,L5,R28,L49,R6,L38,R49,L32,R47,L5,R24,L40,R33,L32,R6,L16,R37,L23,R6,L19,R48,L11

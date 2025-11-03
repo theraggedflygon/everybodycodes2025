@@ -1,0 +1,3 @@
+Erasaxar,Urithxeth,Dorfeth,Cragxelor,Cyndlar,Brylalar,Tazkynar,Drelkynar,Calxeth,Drelmarn,Xarfal,Aerfal,Quirzal,Quircalyx,Xendcarth,Valsor,Urithvoran,Lirulth,Krythverax,Rahral
+
+L12,R5,L18,R10,L9,R7,L8,R13,L19,R8,L5,R8,L5,R15,L5,R6,L5,R10,L5,R15,L12,R17,L5,R6,L11,R7,L5,R6,L12

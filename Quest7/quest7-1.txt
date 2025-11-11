@@ -1,0 +1,14 @@
+Kalilor,Mavcyth,Kalcyth,Kycyth,Mavilor,Mavardith,Kyardith,Kyilor,Kalardith
+
+c > y
+v > a,c,i
+t > h
+M > a
+l > o,a,c,i
+i > t,l
+d > i
+r > d
+a > r,b
+y > a,b,t
+o > r
+K > y,a

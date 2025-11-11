@@ -1,0 +1,26 @@
+Thalsyx,Thymsyx,Quarnmir,Quarnfeth,Krynnralis,Lordar,Quarntyr,Xanrilor,Quarndar,Loriral,Thalonar,Krynndar,Xanmir,Thymagrath,Lorralis,Siliral,Lormir,Krynnonar,Thaltyr,Quarnrilor,Quarniral,Ulmarralis,Krynnrilor,Thalralis,Zalrilor,Zalfeth,Zalonar,Zaltyr,Lirralis,Ulmartyr,Thymfeth,Loragrath,Ulmariral,Thymralis,Thalrilor,Ulmarrilor,Silralis,Silonar,Quarnralis,Lirfeth,Sildar,Lirrilor,Zaliral,Lirdar,Krynnagrath,Xanagrath,Xantyr,Lirtyr,Thymdar,Thalfeth,Krynnsyx,Lirmir,Liragrath,Quarnagrath,Ulmaronar,Ulmarmir,Thymrilor,Thaldar,Xaniral,Ulmarsyx,Krynniral,Quarnonar,Silsyx,Silagrath,Xanralis,Lirsyx,Ulmarfeth,Lorsyx,Loronar,Silfeth,Thymmir,Lironar,Thymtyr,Silmir,Siltyr,Thaliral,Quarnsyx,Thymiral,Zalmir,Thalagrath,Liriral,Thalmir,Xandar,Krynnmir,Silrilor,Lorrilor,Thymonar,Lorfeth,Ulmardar,Xanonar,Ulmaragrath,Zalsyx,Zaldar,Krynnfeth,Zalagrath,Lortyr,Krynntyr,Zalralis,Xansyx,Xanfeth
+
+f > e
+S > i
+Q > u
+m > i,r,a,s,f,d,o,m,t
+e > t
+y > r,x,n,m
+i > s,r,l,v
+K > r
+X > a
+Z > a
+u > a,v
+U > l
+d > a
+L > o,i
+a > r,l,g,t,v
+o > v,n,r
+s > y
+r > n,r,a,s,f,d,o,i,m,t,v
+T > h
+l > i,o,r,a,s,f,d,m,t,v
+h > v
+n > t,a,r,s,f,d,o,i,m,n
+g > r
+t > y,h
